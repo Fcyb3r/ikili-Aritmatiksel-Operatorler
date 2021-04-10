@@ -1,0 +1,2 @@
+# ikiliAritmatikselOperatorler
+ aritmekiksel operatorler
